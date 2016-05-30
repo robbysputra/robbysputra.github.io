@@ -17,7 +17,10 @@ comments: true
     
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
      
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+AMIK Mahaputra Riau adalah Perguruan Tinggi yang berlokasi di kota Pekanbaru yang dipimpin oleh YAYASAN DHARMABAKTI MAHAPUTRA INDONESIA (YDBMI). Kampus AMIK Mahaputra (disingkat AMP aja setelah ini) ada 2 :
+Kampus "A" terletak di Jl. M. Yamin no. 22 Pekanbaru atau lebih tepatnya lagi di depan Mall Pekanbaru. Telp. (0761) - 21782
+Kampus "B" terletak di Jl. H. R. Soebrantas no. 77 Panam atau lebih tepatnya lagi di depan Rumah Sakit Jiwa Tampan. Telp. (0761) - 563872
+
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
