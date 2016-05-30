@@ -1,11 +1,11 @@
 # Site
-title:              siTora
-bio:                'Pencari kepuasan akibat dari setitik rasa ingin tahu'
+title:              Robbysputra
+bio:                'Man in Suit'
 description:        "Web Desaign, and i like coffy"
 reading_time:       true
 words_per_minute:   200
 logo:               'http://t9hacks.org/images/t9hacks_logo_transparent.png'
-background:         'http://orig06.deviantart.net/a380/f/2011/167/4/8/almacon_2012_background_by_sakurirainne-d3j3s4i.png'
+background:         'https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/13233009_10206583180554799_2497915332708596128_n.jpg?oh=4ccd410540092c9a3b6ddafa3f92ca4b&oe=57E4841E'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://tora9.github.io
